@@ -1,0 +1,1 @@
+let animes = ['Attack on titan', 'Kimentsu'];
